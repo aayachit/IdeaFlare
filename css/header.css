@@ -1,0 +1,15 @@
+.header-content {
+  
+  background: rgb(1, 63, 208); 
+  background: rgba(1, 63, 208, 0.7);
+/*
+  background: rgb(81, 81, 81);
+  background: rgba(81, 81, 81, 0.9);*/
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+.title-size{
+	font-size: 25px;
+}

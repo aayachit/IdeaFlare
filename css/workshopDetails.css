@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+.heading {
+  position: relative;
+  margin: 0 auto;
+}
+
+.heading img {
+  vertical-align: middle;
+  width: 100%;
+  max-height: 400px;
+}
+
+.heading .header-content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(1, 63, 208); 
+  background: rgba(1, 63, 208, 0.7);
+/*
+  background: rgb(81, 81, 81);
+  background: rgba(81, 81, 81, 0.9);*/
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+
+}
+
+.border{
+  border:1px solid black;
+}
+
+/*.bg-color{
+  background: rgba(1, 63, 208, 0.5);
+  margin: 0;
+}*/
